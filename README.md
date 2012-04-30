@@ -8,7 +8,3 @@ gem install showoff
 showoff serve
 # go to localhost:9090 in your browser
 </pre>
-
-Luke
-
-@lukecowell
