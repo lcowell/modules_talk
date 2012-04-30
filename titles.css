@@ -1,0 +1,19 @@
+.title-slide > h1 { 
+  padding-left: 120px;
+}
+.title-slide > h2 { 
+  padding-left: 120px;
+}
+
+.content > h1 {
+    padding-left: 40px;
+    text-align: left;
+}
+.content > h2 {
+    padding-left: 40px;
+    text-align: left;
+}
+
+.bullets > ul > li {
+    text-align: left;
+}
